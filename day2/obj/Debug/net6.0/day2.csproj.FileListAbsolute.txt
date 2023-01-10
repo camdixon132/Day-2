@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/day2/day2/bin/Debug/net6.0/day2
+/Users/camerondixon/Projects/day2/day2/bin/Debug/net6.0/day2.deps.json
+/Users/camerondixon/Projects/day2/day2/bin/Debug/net6.0/day2.runtimeconfig.json
+/Users/camerondixon/Projects/day2/day2/bin/Debug/net6.0/day2.dll
+/Users/camerondixon/Projects/day2/day2/bin/Debug/net6.0/day2.pdb
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.AssemblyInfo.cs
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.dll
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/refint/day2.dll
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.pdb
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/day2.genruntimeconfig.cache
+/Users/camerondixon/Projects/day2/day2/obj/Debug/net6.0/ref/day2.dll
